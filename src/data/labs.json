@@ -1,0 +1,1923 @@
+[
+  {
+    "id": "1",
+    "title": "Linear Regression Implementation",
+    "description": "Implement linear regression from scratch using Python and NumPy",
+    "courseId": "1",
+    "creatorId": "2",
+    "category": "AI/ML",
+    "level": "Beginner",
+    "type": "course",
+    "duration": 120,
+    "instructions": "In this lab, you will implement linear regression algorithm from scratch using Python and NumPy. You'll learn the mathematical foundations behind linear regression and how to implement it without using pre-built libraries. This hands-on approach will give you a deep understanding of how machine learning algorithms work under the hood.",
+    "resources": [
+      "NumPy documentation",
+      "Linear algebra refresher",
+      "Dataset: housing prices"
+    ],
+    "tags": [
+      "regression",
+      "numpy",
+      "mathematics"
+    ],
+    "createdAt": "2024-01-10T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://congenial-spork-jq4xg4pqqrf57g.github.dev/",
+    "expirationHours": 48,
+    "prerequisites": [
+      "Basic Python programming",
+      "High school mathematics"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Data Visualization with Matplotlib",
+    "description": "Create compelling visualizations using Matplotlib and Seaborn",
+    "courseId": "2",
+    "creatorId": "2",
+    "category": "Data Science",
+    "level": "Beginner",
+    "type": "course",
+    "duration": 90,
+    "instructions": "Learn to create various types of plots and charts using Matplotlib and Seaborn. You'll explore different visualization techniques including line plots, bar charts, histograms, scatter plots, and heatmaps. This lab will teach you how to effectively communicate data insights through visual representations.",
+    "resources": [
+      "Matplotlib gallery",
+      "Seaborn tutorial",
+      "Sample datasets"
+    ],
+    "tags": [
+      "visualization",
+      "matplotlib",
+      "seaborn"
+    ],
+    "createdAt": "2024-01-11T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://example-matplotlib-lab.github.dev/",
+    "expirationHours": 24,
+    "prerequisites": [
+      "Python basics",
+      "Pandas fundamentals"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "REST API with Flask",
+    "description": "Build a RESTful API using Flask framework",
+    "courseId": "3",
+    "creatorId": "2",
+    "category": "Python",
+    "level": "Intermediate",
+    "type": "project",
+    "duration": 150,
+    "instructions": "Create a complete REST API with CRUD operations using Flask framework. You'll learn how to design RESTful endpoints, handle HTTP methods, implement authentication, and work with databases. This lab covers best practices for API development and testing.",
+    "resources": [
+      "Flask documentation",
+      "REST API best practices",
+      "Postman collection"
+    ],
+    "tags": [
+      "flask",
+      "api",
+      "rest",
+      "crud"
+    ],
+    "createdAt": "2024-01-12T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://example-flask-api-lab.github.dev/",
+    "expirationHours": 72,
+    "prerequisites": [
+      "Python programming",
+      "HTTP protocol understanding",
+      "Database basics"
+    ],
+    "projectDeliverables": [
+      "Working REST API with CRUD operations",
+      "API documentation",
+      "Unit tests for all endpoints",
+      "Deployment guide"
+    ],
+    "estimatedEffort": "1-2 weeks"
+  },
+  {
+    "id": "4",
+    "title": "Neural Networks with TensorFlow",
+    "description": "Build and train neural networks using TensorFlow and Keras",
+    "courseId": "1",
+    "creatorId": "2",
+    "category": "AI/ML",
+    "level": "Advanced",
+    "type": "course",
+    "duration": 180,
+    "instructions": "Dive deep into neural networks using TensorFlow and Keras. You'll learn to build different types of neural networks, understand backpropagation, implement various activation functions, and optimize your models. This lab includes hands-on experience with image classification and natural language processing tasks.",
+    "resources": [
+      "TensorFlow documentation",
+      "Keras tutorials",
+      "MNIST dataset",
+      "Text classification dataset"
+    ],
+    "tags": [
+      "tensorflow",
+      "keras",
+      "neural-networks",
+      "deep-learning"
+    ],
+    "createdAt": "2024-01-13T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://example-tensorflow-lab.github.dev/",
+    "expirationHours": 96,
+    "prerequisites": [
+      "Linear Regression Implementation (completed)",
+      "Python programming",
+      "Linear algebra",
+      "Calculus basics"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Docker Containerization",
+    "description": "Learn containerization with Docker for application deployment",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "DevOps",
+    "level": "Intermediate",
+    "type": "course",
+    "duration": 120,
+    "instructions": "Master Docker containerization for modern application deployment. You'll learn to create Dockerfiles, build images, manage containers, work with volumes, and orchestrate multi-container applications using Docker Compose. This lab covers best practices for containerizing different types of applications.",
+    "resources": [
+      "Docker documentation",
+      "Dockerfile best practices",
+      "Docker Compose guide",
+      "Sample applications"
+    ],
+    "tags": [
+      "docker",
+      "containerization",
+      "deployment",
+      "devops"
+    ],
+    "createdAt": "2024-01-14T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://example-docker-lab.github.dev/",
+    "expirationHours": 40,
+    "prerequisites": [
+      "Linux command line basics",
+      "Application deployment concepts"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Python Developer Certification",
+    "description": "Comprehensive certification exam covering Python programming fundamentals and advanced concepts",
+    "courseId": "3",
+    "creatorId": "2",
+    "category": "Python",
+    "level": "Intermediate",
+    "type": "certification",
+    "duration": 120,
+    "instructions": "This certification exam tests your knowledge of Python programming including data structures, object-oriented programming, error handling, file operations, and popular libraries. You'll have multiple attempts to achieve the passing score.",
+    "resources": [
+      "Python certification study guide",
+      "Practice test questions",
+      "Python documentation",
+      "Code examples repository"
+    ],
+    "tags": [
+      "python",
+      "certification",
+      "programming",
+      "assessment"
+    ],
+    "createdAt": "2024-01-15T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://python-cert-exam.github.dev/",
+    "expirationHours": 24,
+    "prerequisites": [
+      "6+ months Python programming experience",
+      "Completed Python basics course",
+      "Understanding of OOP concepts"
+    ],
+    "certificationCriteria": {
+      "passingScore": 85,
+      "maxAttempts": 3,
+      "timeLimit": 120
+    }
+  },
+  {
+    "id": "7",
+    "title": "AI-Powered E-commerce Platform",
+    "description": "Build a complete e-commerce platform with AI-powered product recommendations and chatbot",
+    "courseId": "1",
+    "creatorId": "2",
+    "category": "AI/ML",
+    "level": "Advanced",
+    "type": "project",
+    "duration": 300,
+    "instructions": "Develop a full-stack e-commerce platform integrating machine learning for product recommendations, natural language processing for customer support chatbot, and computer vision for product image analysis. This capstone project combines multiple AI technologies in a real-world application.",
+    "resources": [
+      "E-commerce platform template",
+      "Product dataset with images",
+      "Recommendation system tutorials",
+      "Chatbot framework documentation",
+      "Deployment guides"
+    ],
+    "tags": [
+      "machine-learning",
+      "nlp",
+      "computer-vision",
+      "full-stack",
+      "e-commerce"
+    ],
+    "createdAt": "2024-01-16T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://ai-ecommerce-project.github.dev/",
+    "expirationHours": 168,
+    "prerequisites": [
+      "Neural Networks with TensorFlow (completed)",
+      "REST API with Flask (completed)",
+      "Frontend development experience",
+      "Database design knowledge"
+    ],
+    "projectDeliverables": [
+      "Working e-commerce website with user authentication",
+      "AI-powered product recommendation engine",
+      "Customer support chatbot with NLP",
+      "Product image classification system",
+      "Admin dashboard with analytics",
+      "Complete documentation and deployment guide",
+      "Video demonstration of all features"
+    ],
+    "estimatedEffort": "4-6 weeks"
+  },
+  {
+    "id": "8",
+    "title": "Data Science Professional Certification",
+    "description": "Advanced certification covering statistical analysis, machine learning, and data visualization",
+    "courseId": "2",
+    "creatorId": "2",
+    "category": "Data Science",
+    "level": "Advanced",
+    "type": "certification",
+    "duration": 180,
+    "instructions": "Comprehensive certification exam testing advanced data science concepts including statistical inference, hypothesis testing, machine learning algorithms, data preprocessing, feature engineering, and model evaluation. Includes both theoretical questions and practical coding challenges.",
+    "resources": [
+      "Data Science certification handbook",
+      "Statistical analysis reference",
+      "Machine learning algorithm guide",
+      "Practice datasets",
+      "Mock exam questions"
+    ],
+    "tags": [
+      "data-science",
+      "statistics",
+      "machine-learning",
+      "certification",
+      "analytics"
+    ],
+    "createdAt": "2024-01-17T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://data-science-cert.github.dev/",
+    "expirationHours": 48,
+    "prerequisites": [
+      "Data Visualization with Matplotlib (completed)",
+      "Statistics and probability knowledge",
+      "Python programming proficiency",
+      "1+ years data analysis experience"
+    ],
+    "certificationCriteria": {
+      "passingScore": 80,
+      "maxAttempts": 2,
+      "timeLimit": 180
+    }
+  },
+  {
+    "id": "9",
+    "title": "Python Basics for Beginners",
+    "description": "Learn Python programming fundamentals including variables, data types, and basic operations",
+    "courseId": "3",
+    "creatorId": "2",
+    "category": "Python",
+    "level": "Beginner",
+    "type": "course",
+    "duration": 90,
+    "instructions": "Start your Python journey with this comprehensive beginner course. Learn variables, data types, operators, and basic input/output operations. Practice with hands-on exercises and build your first Python programs.",
+    "resources": [
+      "Python official tutorial",
+      "Beginner exercises collection",
+      "Python syntax reference",
+      "Interactive coding environment"
+    ],
+    "tags": [
+      "python",
+      "basics",
+      "programming",
+      "variables"
+    ],
+    "createdAt": "2024-01-18T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://python-basics-lab.github.dev/",
+    "expirationHours": 24,
+    "prerequisites": [
+      "Basic computer literacy"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "HTML & CSS Fundamentals",
+    "description": "Master the building blocks of web development with HTML structure and CSS styling",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "Web Development",
+    "level": "Beginner",
+    "type": "course",
+    "duration": 120,
+    "instructions": "Learn to create beautiful web pages using HTML for structure and CSS for styling. Build responsive layouts, work with colors, fonts, and create your first complete webpage.",
+    "resources": [
+      "HTML5 specification",
+      "CSS3 reference guide",
+      "Web design examples",
+      "Browser developer tools guide"
+    ],
+    "tags": [
+      "html",
+      "css",
+      "web-development",
+      "responsive"
+    ],
+    "createdAt": "2024-01-19T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://html-css-lab.github.dev/",
+    "expirationHours": 36,
+    "prerequisites": [
+      "Basic computer skills"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Introduction to Data Analysis",
+    "description": "Explore data analysis concepts using Excel and basic statistical methods",
+    "courseId": "2",
+    "creatorId": "2",
+    "category": "Data Science",
+    "level": "Beginner",
+    "type": "course",
+    "duration": 100,
+    "instructions": "Begin your data science journey by learning fundamental data analysis concepts. Work with spreadsheets, create charts, and understand basic statistical measures like mean, median, and standard deviation.",
+    "resources": [
+      "Sample datasets",
+      "Excel tutorial videos",
+      "Statistics primer",
+      "Data visualization examples"
+    ],
+    "tags": [
+      "data-analysis",
+      "statistics",
+      "excel",
+      "visualization"
+    ],
+    "createdAt": "2024-01-20T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://data-analysis-intro.github.dev/",
+    "expirationHours": 30,
+    "prerequisites": [
+      "Basic math skills",
+      "Computer literacy"
+    ]
+  },
+  {
+    "id": "12",
+    "title": "AI Concepts and Applications",
+    "description": "Understand artificial intelligence fundamentals and real-world applications",
+    "courseId": "1",
+    "creatorId": "2",
+    "category": "AI/ML",
+    "level": "Beginner",
+    "type": "course",
+    "duration": 110,
+    "instructions": "Discover the fascinating world of artificial intelligence. Learn about different types of AI, machine learning basics, and explore how AI is transforming various industries.",
+    "resources": [
+      "AI history timeline",
+      "Industry case studies",
+      "Interactive AI demos",
+      "Glossary of AI terms"
+    ],
+    "tags": [
+      "artificial-intelligence",
+      "machine-learning",
+      "applications",
+      "concepts"
+    ],
+    "createdAt": "2024-01-21T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://ai-concepts-lab.github.dev/",
+    "expirationHours": 32,
+    "prerequisites": [
+      "High school mathematics",
+      "Curiosity about technology"
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Linux Command Line Basics",
+    "description": "Master essential Linux commands and terminal operations for DevOps",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "DevOps",
+    "level": "Beginner",
+    "type": "course",
+    "duration": 95,
+    "instructions": "Learn to navigate and operate Linux systems using the command line. Master file operations, text processing, and basic system administration commands essential for DevOps.",
+    "resources": [
+      "Linux command reference",
+      "Terminal cheat sheet",
+      "Practice exercises",
+      "Virtual Linux environment"
+    ],
+    "tags": [
+      "linux",
+      "command-line",
+      "terminal",
+      "devops"
+    ],
+    "createdAt": "2024-01-22T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://linux-basics-lab.github.dev/",
+    "expirationHours": 28,
+    "prerequisites": [
+      "Basic computer knowledge"
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Advanced Python Programming",
+    "description": "Master advanced Python concepts including decorators, generators, and metaclasses",
+    "courseId": "3",
+    "creatorId": "2",
+    "category": "Python",
+    "level": "Intermediate",
+    "type": "course",
+    "duration": 150,
+    "instructions": "Take your Python skills to the next level with advanced programming concepts. Learn about decorators, context managers, generators, and object-oriented programming principles.",
+    "resources": [
+      "Advanced Python guide",
+      "Code examples repository",
+      "Design patterns in Python",
+      "Performance optimization tips"
+    ],
+    "tags": [
+      "python",
+      "advanced",
+      "decorators",
+      "oop"
+    ],
+    "createdAt": "2024-01-23T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://advanced-python-lab.github.dev/",
+    "expirationHours": 48,
+    "prerequisites": [
+      "Python Basics for Beginners (completed)",
+      "6+ months Python experience"
+    ]
+  },
+  {
+    "id": "15",
+    "title": "React Frontend Development",
+    "description": "Build modern web applications using React, hooks, and component architecture",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "Web Development",
+    "level": "Intermediate",
+    "type": "course",
+    "duration": 180,
+    "instructions": "Learn to build dynamic web applications with React. Master components, state management, hooks, and routing to create professional frontend applications.",
+    "resources": [
+      "React documentation",
+      "Component library examples",
+      "State management guide",
+      "Routing tutorial"
+    ],
+    "tags": [
+      "react",
+      "frontend",
+      "javascript",
+      "components"
+    ],
+    "createdAt": "2024-01-24T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://react-frontend-lab.github.dev/",
+    "expirationHours": 60,
+    "prerequisites": [
+      "HTML & CSS Fundamentals (completed)",
+      "JavaScript basics",
+      "Understanding of DOM"
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Statistical Analysis with R",
+    "description": "Perform advanced statistical analysis and data modeling using R programming",
+    "courseId": "2",
+    "creatorId": "2",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "type": "course",
+    "duration": 160,
+    "instructions": "Master statistical analysis using R programming language. Learn hypothesis testing, regression analysis, ANOVA, and advanced statistical modeling techniques.",
+    "resources": [
+      "R programming guide",
+      "Statistical datasets",
+      "R packages reference",
+      "Statistical methods handbook"
+    ],
+    "tags": [
+      "r-programming",
+      "statistics",
+      "regression",
+      "hypothesis-testing"
+    ],
+    "createdAt": "2024-01-25T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://r-statistics-lab.github.dev/",
+    "expirationHours": 55,
+    "prerequisites": [
+      "Introduction to Data Analysis (completed)",
+      "Basic statistics knowledge",
+      "Programming fundamentals"
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Computer Vision Fundamentals",
+    "description": "Learn image processing and computer vision techniques using OpenCV and Python",
+    "courseId": "1",
+    "creatorId": "2",
+    "category": "AI/ML",
+    "level": "Intermediate",
+    "type": "course",
+    "duration": 170,
+    "instructions": "Explore the world of computer vision and image processing. Learn to work with images, detect objects, and implement basic computer vision algorithms using OpenCV.",
+    "resources": [
+      "OpenCV documentation",
+      "Image datasets",
+      "Computer vision tutorials",
+      "Algorithm implementations"
+    ],
+    "tags": [
+      "computer-vision",
+      "opencv",
+      "image-processing",
+      "object-detection"
+    ],
+    "createdAt": "2024-01-26T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://computer-vision-lab.github.dev/",
+    "expirationHours": 65,
+    "prerequisites": [
+      "AI Concepts and Applications (completed)",
+      "Python programming",
+      "Linear algebra basics"
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Kubernetes Container Orchestration",
+    "description": "Deploy and manage containerized applications using Kubernetes",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "DevOps",
+    "level": "Intermediate",
+    "type": "course",
+    "duration": 140,
+    "instructions": "Learn to orchestrate containers at scale using Kubernetes. Master pods, services, deployments, and cluster management for production-ready applications.",
+    "resources": [
+      "Kubernetes documentation",
+      "Cluster setup guide",
+      "YAML configuration examples",
+      "Best practices guide"
+    ],
+    "tags": [
+      "kubernetes",
+      "containers",
+      "orchestration",
+      "microservices"
+    ],
+    "createdAt": "2024-01-27T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://kubernetes-lab.github.dev/",
+    "expirationHours": 50,
+    "prerequisites": [
+      "Docker Containerization (completed)",
+      "Linux Command Line Basics (completed)",
+      "Understanding of networking"
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Advanced Machine Learning",
+    "description": "Master complex ML algorithms including ensemble methods and deep learning",
+    "courseId": "1",
+    "creatorId": "2",
+    "category": "AI/ML",
+    "level": "Advanced",
+    "type": "course",
+    "duration": 200,
+    "instructions": "Dive deep into advanced machine learning techniques. Learn ensemble methods, gradient boosting, advanced neural networks, and cutting-edge ML algorithms.",
+    "resources": [
+      "Advanced ML textbook",
+      "Research papers collection",
+      "Complex datasets",
+      "Algorithm implementations"
+    ],
+    "tags": [
+      "machine-learning",
+      "ensemble-methods",
+      "deep-learning",
+      "algorithms"
+    ],
+    "createdAt": "2024-01-28T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://advanced-ml-lab.github.dev/",
+    "expirationHours": 80,
+    "prerequisites": [
+      "Neural Networks with TensorFlow (completed)",
+      "Computer Vision Fundamentals (completed)",
+      "Advanced mathematics",
+      "2+ years ML experience"
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Full-Stack Web Architecture",
+    "description": "Design and implement scalable web applications with modern architecture patterns",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "Web Development",
+    "level": "Advanced",
+    "type": "course",
+    "duration": 220,
+    "instructions": "Master advanced web development concepts including microservices, API design, database optimization, caching strategies, and scalable architecture patterns.",
+    "resources": [
+      "Architecture patterns guide",
+      "Scalability best practices",
+      "Performance optimization",
+      "Security guidelines"
+    ],
+    "tags": [
+      "full-stack",
+      "architecture",
+      "scalability",
+      "microservices"
+    ],
+    "createdAt": "2024-01-29T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://fullstack-architecture-lab.github.dev/",
+    "expirationHours": 90,
+    "prerequisites": [
+      "React Frontend Development (completed)",
+      "REST API with Flask (completed)",
+      "Database design experience",
+      "System design knowledge"
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Advanced Data Engineering",
+    "description": "Build robust data pipelines and implement big data processing systems",
+    "courseId": "2",
+    "creatorId": "2",
+    "category": "Data Science",
+    "level": "Advanced",
+    "type": "course",
+    "duration": 190,
+    "instructions": "Learn to design and implement large-scale data processing systems. Master Apache Spark, data streaming, ETL pipelines, and data warehouse architecture.",
+    "resources": [
+      "Apache Spark documentation",
+      "Data pipeline examples",
+      "Big data case studies",
+      "Performance tuning guide"
+    ],
+    "tags": [
+      "data-engineering",
+      "big-data",
+      "spark",
+      "etl"
+    ],
+    "createdAt": "2024-01-30T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://data-engineering-lab.github.dev/",
+    "expirationHours": 85,
+    "prerequisites": [
+      "Statistical Analysis with R (completed)",
+      "Database administration",
+      "Distributed systems knowledge",
+      "Programming proficiency"
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Python Mastery Expert Level",
+    "description": "Achieve Python expertise with advanced patterns, performance optimization, and framework development",
+    "courseId": "3",
+    "creatorId": "2",
+    "category": "Python",
+    "level": "Advanced",
+    "type": "course",
+    "duration": 210,
+    "instructions": "Become a Python expert by mastering advanced design patterns, performance optimization, memory management, and creating your own frameworks and libraries.",
+    "resources": [
+      "Python internals guide",
+      "Performance profiling tools",
+      "Advanced design patterns",
+      "Framework development guide"
+    ],
+    "tags": [
+      "python",
+      "expert",
+      "performance",
+      "frameworks"
+    ],
+    "createdAt": "2024-01-31T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://python-mastery-lab.github.dev/",
+    "expirationHours": 95,
+    "prerequisites": [
+      "Advanced Python Programming (completed)",
+      "Software architecture knowledge",
+      "3+ years Python experience",
+      "Understanding of computer science fundamentals"
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Cloud Infrastructure Mastery",
+    "description": "Master cloud-native technologies, infrastructure as code, and advanced DevOps practices",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "DevOps",
+    "level": "Advanced",
+    "type": "course",
+    "duration": 180,
+    "instructions": "Become proficient in cloud infrastructure management using Terraform, advanced CI/CD pipelines, monitoring, and site reliability engineering practices.",
+    "resources": [
+      "Terraform documentation",
+      "Cloud provider guides",
+      "SRE best practices",
+      "Monitoring and alerting setup"
+    ],
+    "tags": [
+      "cloud",
+      "terraform",
+      "infrastructure",
+      "sre"
+    ],
+    "createdAt": "2024-02-01T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://cloud-infrastructure-lab.github.dev/",
+    "expirationHours": 75,
+    "prerequisites": [
+      "Kubernetes Container Orchestration (completed)",
+      "Cloud platform experience",
+      "Networking fundamentals",
+      "Security best practices"
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Web Development Fundamentals Certification",
+    "description": "Comprehensive certification covering HTML, CSS, JavaScript, and basic web development principles",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "Web Development",
+    "level": "Beginner",
+    "type": "certification",
+    "duration": 90,
+    "instructions": "Demonstrate your understanding of web development fundamentals through this comprehensive certification exam covering HTML structure, CSS styling, basic JavaScript, and web development best practices.",
+    "resources": [
+      "Web development study guide",
+      "HTML/CSS reference",
+      "JavaScript basics tutorial",
+      "Practice coding challenges"
+    ],
+    "tags": [
+      "web-development",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "createdAt": "2024-02-02T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://web-dev-cert-beginner.github.dev/",
+    "expirationHours": 24,
+    "prerequisites": [
+      "HTML & CSS Fundamentals (completed)",
+      "Basic JavaScript knowledge"
+    ],
+    "certificationCriteria": {
+      "passingScore": 75,
+      "maxAttempts": 3,
+      "timeLimit": 90
+    }
+  },
+  {
+    "id": "25",
+    "title": "Data Analysis Fundamentals Certification",
+    "description": "Validate your data analysis skills with Excel, basic statistics, and data visualization",
+    "courseId": "2",
+    "creatorId": "2",
+    "category": "Data Science",
+    "level": "Beginner",
+    "type": "certification",
+    "duration": 75,
+    "instructions": "Prove your competency in fundamental data analysis concepts including descriptive statistics, data visualization, and basic data manipulation using spreadsheet tools.",
+    "resources": [
+      "Data analysis certification guide",
+      "Statistics reference sheet",
+      "Excel functions reference",
+      "Sample datasets for practice"
+    ],
+    "tags": [
+      "data-analysis",
+      "statistics",
+      "excel",
+      "certification"
+    ],
+    "createdAt": "2024-02-03T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://data-analysis-cert.github.dev/",
+    "expirationHours": 20,
+    "prerequisites": [
+      "Introduction to Data Analysis (completed)",
+      "Basic mathematics"
+    ],
+    "certificationCriteria": {
+      "passingScore": 70,
+      "maxAttempts": 3,
+      "timeLimit": 75
+    }
+  },
+  {
+    "id": "26",
+    "title": "AI Literacy Certification",
+    "description": "Demonstrate understanding of AI concepts, applications, and ethical considerations",
+    "courseId": "1",
+    "creatorId": "2",
+    "category": "AI/ML",
+    "level": "Beginner",
+    "type": "certification",
+    "duration": 60,
+    "instructions": "Show your knowledge of artificial intelligence fundamentals, including different types of AI, real-world applications, and important ethical considerations in AI development.",
+    "resources": [
+      "AI literacy handbook",
+      "Ethics in AI guide",
+      "AI applications case studies",
+      "Terminology glossary"
+    ],
+    "tags": [
+      "artificial-intelligence",
+      "ai-literacy",
+      "ethics",
+      "applications"
+    ],
+    "createdAt": "2024-02-04T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://ai-literacy-cert.github.dev/",
+    "expirationHours": 18,
+    "prerequisites": [
+      "AI Concepts and Applications (completed)"
+    ],
+    "certificationCriteria": {
+      "passingScore": 70,
+      "maxAttempts": 3,
+      "timeLimit": 60
+    }
+  },
+  {
+    "id": "27",
+    "title": "Linux System Administration Certification",
+    "description": "Validate your Linux command line and basic system administration skills",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "DevOps",
+    "level": "Beginner",
+    "type": "certification",
+    "duration": 80,
+    "instructions": "Demonstrate proficiency in Linux command line operations, file management, basic system administration, and shell scripting fundamentals.",
+    "resources": [
+      "Linux certification study guide",
+      "Command reference manual",
+      "System administration basics",
+      "Shell scripting examples"
+    ],
+    "tags": [
+      "linux",
+      "system-administration",
+      "command-line",
+      "certification"
+    ],
+    "createdAt": "2024-02-05T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://linux-admin-cert.github.dev/",
+    "expirationHours": 22,
+    "prerequisites": [
+      "Linux Command Line Basics (completed)",
+      "Basic networking knowledge"
+    ],
+    "certificationCriteria": {
+      "passingScore": 75,
+      "maxAttempts": 2,
+      "timeLimit": 80
+    }
+  },
+  {
+    "id": "28",
+    "title": "Python Programming Intermediate Certification",
+    "description": "Advanced Python certification covering OOP, data structures, and application development",
+    "courseId": "3",
+    "creatorId": "2",
+    "category": "Python",
+    "level": "Intermediate",
+    "type": "certification",
+    "duration": 120,
+    "instructions": "Demonstrate advanced Python programming skills including object-oriented programming, data structures, algorithms, and practical application development.",
+    "resources": [
+      "Advanced Python certification guide",
+      "OOP concepts reference",
+      "Data structures handbook",
+      "Coding challenge collection"
+    ],
+    "tags": [
+      "python",
+      "intermediate",
+      "oop",
+      "data-structures"
+    ],
+    "createdAt": "2024-02-06T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://python-intermediate-cert.github.dev/",
+    "expirationHours": 30,
+    "prerequisites": [
+      "Python Developer Certification (completed)",
+      "Advanced Python Programming (completed)",
+      "1+ years Python experience"
+    ],
+    "certificationCriteria": {
+      "passingScore": 80,
+      "maxAttempts": 2,
+      "timeLimit": 120
+    }
+  },
+  {
+    "id": "29",
+    "title": "Frontend Development Professional Certification",
+    "description": "Comprehensive certification for modern frontend development with React and advanced JavaScript",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "Web Development",
+    "level": "Intermediate",
+    "type": "certification",
+    "duration": 150,
+    "instructions": "Prove your expertise in modern frontend development including React, state management, testing, and performance optimization. Includes both theoretical knowledge and practical coding assessments.",
+    "resources": [
+      "Frontend certification handbook",
+      "React best practices guide",
+      "JavaScript advanced concepts",
+      "Performance optimization techniques"
+    ],
+    "tags": [
+      "frontend",
+      "react",
+      "javascript",
+      "professional"
+    ],
+    "createdAt": "2024-02-07T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://frontend-professional-cert.github.dev/",
+    "expirationHours": 36,
+    "prerequisites": [
+      "React Frontend Development (completed)",
+      "Web Development Fundamentals Certification (completed)",
+      "JavaScript proficiency"
+    ],
+    "certificationCriteria": {
+      "passingScore": 85,
+      "maxAttempts": 2,
+      "timeLimit": 150
+    }
+  },
+  {
+    "id": "30",
+    "title": "Machine Learning Engineer Certification",
+    "description": "Professional certification for machine learning engineering and model deployment",
+    "courseId": "1",
+    "creatorId": "2",
+    "category": "AI/ML",
+    "level": "Intermediate",
+    "type": "certification",
+    "duration": 180,
+    "instructions": "Demonstrate your ability to design, implement, and deploy machine learning models in production environments. Covers MLOps, model evaluation, and scalable ML systems.",
+    "resources": [
+      "ML engineering handbook",
+      "MLOps best practices",
+      "Model deployment guide",
+      "Production ML case studies"
+    ],
+    "tags": [
+      "machine-learning",
+      "mlops",
+      "model-deployment",
+      "engineering"
+    ],
+    "createdAt": "2024-02-08T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://ml-engineer-cert.github.dev/",
+    "expirationHours": 48,
+    "prerequisites": [
+      "Computer Vision Fundamentals (completed)",
+      "Statistical Analysis with R (completed)",
+      "Cloud platform experience"
+    ],
+    "certificationCriteria": {
+      "passingScore": 85,
+      "maxAttempts": 2,
+      "timeLimit": 180
+    }
+  },
+  {
+    "id": "31",
+    "title": "DevOps Engineer Professional Certification",
+    "description": "Advanced certification covering CI/CD, containerization, and infrastructure automation",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "DevOps",
+    "level": "Intermediate",
+    "type": "certification",
+    "duration": 160,
+    "instructions": "Validate your DevOps engineering skills including continuous integration/deployment, container orchestration, infrastructure as code, and monitoring systems.",
+    "resources": [
+      "DevOps certification guide",
+      "CI/CD pipeline examples",
+      "Infrastructure automation tools",
+      "Monitoring and logging best practices"
+    ],
+    "tags": [
+      "devops",
+      "ci-cd",
+      "automation",
+      "professional"
+    ],
+    "createdAt": "2024-02-09T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://devops-professional-cert.github.dev/",
+    "expirationHours": 40,
+    "prerequisites": [
+      "Kubernetes Container Orchestration (completed)",
+      "Docker Containerization (completed)",
+      "Cloud platform experience"
+    ],
+    "certificationCriteria": {
+      "passingScore": 80,
+      "maxAttempts": 2,
+      "timeLimit": 160
+    }
+  },
+  {
+    "id": "32",
+    "title": "AI Research Scientist Certification",
+    "description": "Expert-level certification for AI research, advanced algorithms, and scientific methodology",
+    "courseId": "1",
+    "creatorId": "2",
+    "category": "AI/ML",
+    "level": "Advanced",
+    "type": "certification",
+    "duration": 240,
+    "instructions": "Demonstrate mastery of advanced AI research methodologies, cutting-edge algorithms, and ability to contribute to the field of artificial intelligence research.",
+    "resources": [
+      "AI research methodology guide",
+      "Latest research papers",
+      "Advanced algorithm implementations",
+      "Scientific writing guidelines"
+    ],
+    "tags": [
+      "ai-research",
+      "advanced-algorithms",
+      "scientific-method",
+      "expert"
+    ],
+    "createdAt": "2024-02-10T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://ai-research-cert.github.dev/",
+    "expirationHours": 72,
+    "prerequisites": [
+      "Advanced Machine Learning (completed)",
+      "PhD or equivalent research experience",
+      "Published research papers",
+      "Advanced mathematics"
+    ],
+    "certificationCriteria": {
+      "passingScore": 90,
+      "maxAttempts": 1,
+      "timeLimit": 240
+    }
+  },
+  {
+    "id": "33",
+    "title": "Full-Stack Architect Certification",
+    "description": "Master-level certification for full-stack architecture design and implementation",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "Web Development",
+    "level": "Advanced",
+    "type": "certification",
+    "duration": 200,
+    "instructions": "Prove your expertise in designing and implementing large-scale web applications, microservices architecture, and leading development teams.",
+    "resources": [
+      "Software architecture patterns",
+      "Scalability design principles",
+      "System design case studies",
+      "Leadership in tech guide"
+    ],
+    "tags": [
+      "full-stack",
+      "architecture",
+      "system-design",
+      "leadership"
+    ],
+    "createdAt": "2024-02-11T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://fullstack-architect-cert.github.dev/",
+    "expirationHours": 60,
+    "prerequisites": [
+      "Full-Stack Web Architecture (completed)",
+      "Frontend Development Professional Certification (completed)",
+      "5+ years development experience",
+      "Team leadership experience"
+    ],
+    "certificationCriteria": {
+      "passingScore": 85,
+      "maxAttempts": 1,
+      "timeLimit": 200
+    }
+  },
+  {
+    "id": "34",
+    "title": "Chief Data Officer Certification",
+    "description": "Executive-level certification for data strategy, governance, and organizational leadership",
+    "courseId": "2",
+    "creatorId": "2",
+    "category": "Data Science",
+    "level": "Advanced",
+    "type": "certification",
+    "duration": 180,
+    "instructions": "Demonstrate executive-level competency in data strategy, governance, team leadership, and driving data-driven organizational transformation.",
+    "resources": [
+      "Data strategy framework",
+      "Data governance best practices",
+      "Executive leadership guide",
+      "Organizational transformation case studies"
+    ],
+    "tags": [
+      "data-strategy",
+      "governance",
+      "executive",
+      "leadership"
+    ],
+    "createdAt": "2024-02-12T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://cdo-certification.github.dev/",
+    "expirationHours": 48,
+    "prerequisites": [
+      "Advanced Data Engineering (completed)",
+      "Data Science Professional Certification (completed)",
+      "Executive experience",
+      "MBA or equivalent business education"
+    ],
+    "certificationCriteria": {
+      "passingScore": 85,
+      "maxAttempts": 1,
+      "timeLimit": 180
+    }
+  },
+  {
+    "id": "35",
+    "title": "Python Framework Architect Certification",
+    "description": "Expert certification for designing and building Python frameworks and libraries",
+    "courseId": "3",
+    "creatorId": "2",
+    "category": "Python",
+    "level": "Advanced",
+    "type": "certification",
+    "duration": 220,
+    "instructions": "Demonstrate mastery in Python framework design, library development, performance optimization, and contributing to the Python ecosystem.",
+    "resources": [
+      "Framework design patterns",
+      "Python internals documentation",
+      "Performance optimization guide",
+      "Open source contribution guide"
+    ],
+    "tags": [
+      "python",
+      "framework-design",
+      "architecture",
+      "expert"
+    ],
+    "createdAt": "2024-02-13T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://python-architect-cert.github.dev/",
+    "expirationHours": 66,
+    "prerequisites": [
+      "Python Mastery Expert Level (completed)",
+      "Python Programming Intermediate Certification (completed)",
+      "Open source contributions",
+      "Framework development experience"
+    ],
+    "certificationCriteria": {
+      "passingScore": 90,
+      "maxAttempts": 1,
+      "timeLimit": 220
+    }
+  },
+  {
+    "id": "36",
+    "title": "Cloud Solutions Architect Certification",
+    "description": "Master-level certification for cloud architecture, security, and enterprise solutions",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "DevOps",
+    "level": "Advanced",
+    "type": "certification",
+    "duration": 210,
+    "instructions": "Prove your expertise in designing enterprise-grade cloud solutions, security architecture, and leading cloud transformation initiatives.",
+    "resources": [
+      "Cloud architecture patterns",
+      "Security best practices",
+      "Enterprise solution designs",
+      "Cost optimization strategies"
+    ],
+    "tags": [
+      "cloud-architecture",
+      "security",
+      "enterprise",
+      "solutions"
+    ],
+    "createdAt": "2024-02-14T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://cloud-architect-cert.github.dev/",
+    "expirationHours": 72,
+    "prerequisites": [
+      "Cloud Infrastructure Mastery (completed)",
+      "DevOps Engineer Professional Certification (completed)",
+      "Security certifications",
+      "Enterprise architecture experience"
+    ],
+    "certificationCriteria": {
+      "passingScore": 85,
+      "maxAttempts": 1,
+      "timeLimit": 210
+    }
+  },
+  {
+    "id": "37",
+    "title": "Personal Portfolio Website",
+    "description": "Create a professional portfolio website showcasing your skills and projects",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "Web Development",
+    "level": "Beginner",
+    "type": "project",
+    "duration": 120,
+    "instructions": "Build a complete personal portfolio website using HTML, CSS, and basic JavaScript. Include sections for about, skills, projects, and contact information.",
+    "resources": [
+      "Portfolio design templates",
+      "HTML/CSS starter code",
+      "Image optimization guide",
+      "Deployment instructions"
+    ],
+    "tags": [
+      "portfolio",
+      "html",
+      "css",
+      "personal-branding"
+    ],
+    "createdAt": "2024-02-15T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://portfolio-project.github.dev/",
+    "expirationHours": 72,
+    "prerequisites": [
+      "HTML & CSS Fundamentals (completed)"
+    ],
+    "projectDeliverables": [
+      "Responsive portfolio website",
+      "Professional design and layout",
+      "Contact form functionality",
+      "Deployed live website",
+      "Project documentation"
+    ],
+    "estimatedEffort": "1-2 weeks"
+  },
+  {
+    "id": "38",
+    "title": "Data Visualization Dashboard",
+    "description": "Build an interactive dashboard to visualize and analyze real-world datasets",
+    "courseId": "2",
+    "creatorId": "2",
+    "category": "Data Science",
+    "level": "Beginner",
+    "type": "project",
+    "duration": 150,
+    "instructions": "Create an interactive data visualization dashboard using tools like Tableau, Power BI, or Python libraries. Analyze a real dataset and present insights through charts and graphs.",
+    "resources": [
+      "Sample datasets collection",
+      "Visualization best practices",
+      "Dashboard design principles",
+      "Storytelling with data guide"
+    ],
+    "tags": [
+      "data-visualization",
+      "dashboard",
+      "analytics",
+      "insights"
+    ],
+    "createdAt": "2024-02-16T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://data-dashboard-project.github.dev/",
+    "expirationHours": 80,
+    "prerequisites": [
+      "Introduction to Data Analysis (completed)",
+      "Data Visualization with Matplotlib (completed)"
+    ],
+    "projectDeliverables": [
+      "Interactive data dashboard",
+      "Data analysis report",
+      "Key insights presentation",
+      "Clean and documented code",
+      "User guide for dashboard"
+    ],
+    "estimatedEffort": "2-3 weeks"
+  },
+  {
+    "id": "39",
+    "title": "AI Chatbot Assistant",
+    "description": "Develop a conversational AI chatbot for customer service or personal assistance",
+    "courseId": "1",
+    "creatorId": "2",
+    "category": "AI/ML",
+    "level": "Beginner",
+    "type": "project",
+    "duration": 180,
+    "instructions": "Build an AI-powered chatbot using natural language processing. Implement conversation flow, intent recognition, and response generation for a specific use case.",
+    "resources": [
+      "Chatbot framework documentation",
+      "NLP libraries guide",
+      "Conversation design patterns",
+      "Training data examples"
+    ],
+    "tags": [
+      "chatbot",
+      "nlp",
+      "conversational-ai",
+      "customer-service"
+    ],
+    "createdAt": "2024-02-17T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://chatbot-project.github.dev/",
+    "expirationHours": 96,
+    "prerequisites": [
+      "AI Concepts and Applications (completed)",
+      "Python Basics for Beginners (completed)"
+    ],
+    "projectDeliverables": [
+      "Working chatbot application",
+      "Conversation flow documentation",
+      "Training data and model",
+      "User interface for interaction",
+      "Performance evaluation report"
+    ],
+    "estimatedEffort": "3-4 weeks"
+  },
+  {
+    "id": "40",
+    "title": "Python Command Line Tool",
+    "description": "Create a useful command-line utility tool using Python",
+    "courseId": "3",
+    "creatorId": "2",
+    "category": "Python",
+    "level": "Beginner",
+    "type": "project",
+    "duration": 100,
+    "instructions": "Develop a command-line tool that solves a real problem. Include argument parsing, file operations, and proper error handling. Package it for distribution.",
+    "resources": [
+      "CLI development guide",
+      "Python packaging tutorial",
+      "Argument parsing examples",
+      "Error handling best practices"
+    ],
+    "tags": [
+      "command-line",
+      "python",
+      "utility",
+      "packaging"
+    ],
+    "createdAt": "2024-02-18T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://python-cli-project.github.dev/",
+    "expirationHours": 60,
+    "prerequisites": [
+      "Python Basics for Beginners (completed)"
+    ],
+    "projectDeliverables": [
+      "Working command-line tool",
+      "Comprehensive help documentation",
+      "Unit tests for all functions",
+      "Installable package",
+      "Usage examples and tutorials"
+    ],
+    "estimatedEffort": "1-2 weeks"
+  },
+  {
+    "id": "41",
+    "title": "Automated Deployment Pipeline",
+    "description": "Build a complete CI/CD pipeline for automated application deployment",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "DevOps",
+    "level": "Beginner",
+    "type": "project",
+    "duration": 160,
+    "instructions": "Create an automated deployment pipeline using GitHub Actions or similar tools. Include testing, building, and deployment stages for a sample application.",
+    "resources": [
+      "CI/CD pipeline examples",
+      "GitHub Actions documentation",
+      "Deployment strategies guide",
+      "Testing automation tools"
+    ],
+    "tags": [
+      "ci-cd",
+      "automation",
+      "deployment",
+      "pipeline"
+    ],
+    "createdAt": "2024-02-19T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://cicd-pipeline-project.github.dev/",
+    "expirationHours": 84,
+    "prerequisites": [
+      "Linux Command Line Basics (completed)",
+      "Basic understanding of version control"
+    ],
+    "projectDeliverables": [
+      "Complete CI/CD pipeline",
+      "Automated testing suite",
+      "Deployment configuration",
+      "Monitoring and alerting setup",
+      "Documentation and runbooks"
+    ],
+    "estimatedEffort": "2-3 weeks"
+  },
+  {
+    "id": "42",
+    "title": "E-commerce Web Application",
+    "description": "Develop a full-featured e-commerce platform with shopping cart and payment integration",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "Web Development",
+    "level": "Intermediate",
+    "type": "project",
+    "duration": 300,
+    "instructions": "Build a complete e-commerce web application with user authentication, product catalog, shopping cart, order management, and payment processing integration.",
+    "resources": [
+      "E-commerce platform architecture",
+      "Payment gateway integration guide",
+      "Database design patterns",
+      "Security best practices"
+    ],
+    "tags": [
+      "e-commerce",
+      "full-stack",
+      "payment-integration",
+      "database"
+    ],
+    "createdAt": "2024-02-20T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://ecommerce-project.github.dev/",
+    "expirationHours": 168,
+    "prerequisites": [
+      "React Frontend Development (completed)",
+      "REST API with Flask (completed)",
+      "Database fundamentals"
+    ],
+    "projectDeliverables": [
+      "Complete e-commerce website",
+      "User authentication system",
+      "Product management interface",
+      "Shopping cart and checkout",
+      "Payment processing integration",
+      "Order management system",
+      "Admin dashboard",
+      "Mobile-responsive design"
+    ],
+    "estimatedEffort": "6-8 weeks"
+  },
+  {
+    "id": "43",
+    "title": "Machine Learning Prediction Model",
+    "description": "Build and deploy a machine learning model for real-world prediction tasks",
+    "courseId": "1",
+    "creatorId": "2",
+    "category": "AI/ML",
+    "level": "Intermediate",
+    "type": "project",
+    "duration": 240,
+    "instructions": "Develop a complete machine learning solution including data preprocessing, model training, evaluation, and deployment. Choose from regression, classification, or clustering problems.",
+    "resources": [
+      "ML project template",
+      "Model evaluation metrics",
+      "Deployment platforms guide",
+      "Real-world datasets"
+    ],
+    "tags": [
+      "machine-learning",
+      "prediction",
+      "model-deployment",
+      "data-science"
+    ],
+    "createdAt": "2024-02-21T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://ml-prediction-project.github.dev/",
+    "expirationHours": 120,
+    "prerequisites": [
+      "Computer Vision Fundamentals (completed)",
+      "Statistical Analysis with R (completed)",
+      "Python programming proficiency"
+    ],
+    "projectDeliverables": [
+      "Trained machine learning model",
+      "Data preprocessing pipeline",
+      "Model evaluation report",
+      "Web API for predictions",
+      "Interactive demo application",
+      "Model documentation",
+      "Performance monitoring setup"
+    ],
+    "estimatedEffort": "4-6 weeks"
+  },
+  {
+    "id": "44",
+    "title": "Real-time Analytics Platform",
+    "description": "Create a real-time data processing and analytics platform using modern data technologies",
+    "courseId": "2",
+    "creatorId": "2",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "type": "project",
+    "duration": 280,
+    "instructions": "Build a real-time analytics platform that ingests, processes, and visualizes streaming data. Include data pipelines, real-time processing, and interactive dashboards.",
+    "resources": [
+      "Streaming data architecture",
+      "Real-time processing frameworks",
+      "Data pipeline design patterns",
+      "Visualization libraries"
+    ],
+    "tags": [
+      "real-time",
+      "analytics",
+      "streaming",
+      "data-pipeline"
+    ],
+    "createdAt": "2024-02-22T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://realtime-analytics-project.github.dev/",
+    "expirationHours": 144,
+    "prerequisites": [
+      "Statistical Analysis with R (completed)",
+      "Advanced Python Programming (completed)",
+      "Database design knowledge"
+    ],
+    "projectDeliverables": [
+      "Real-time data ingestion system",
+      "Stream processing pipeline",
+      "Interactive analytics dashboard",
+      "Data storage and retrieval system",
+      "Alerting and monitoring",
+      "Performance optimization report",
+      "Scalability documentation"
+    ],
+    "estimatedEffort": "5-7 weeks"
+  },
+  {
+    "id": "45",
+    "title": "Advanced Python Framework",
+    "description": "Design and implement a reusable Python framework or library for a specific domain",
+    "courseId": "3",
+    "creatorId": "2",
+    "category": "Python",
+    "level": "Intermediate",
+    "type": "project",
+    "duration": 250,
+    "instructions": "Create a comprehensive Python framework or library that solves a specific problem domain. Include proper architecture, documentation, testing, and packaging for distribution.",
+    "resources": [
+      "Framework design principles",
+      "Python packaging guide",
+      "API design best practices",
+      "Testing strategies"
+    ],
+    "tags": [
+      "python",
+      "framework",
+      "library",
+      "architecture"
+    ],
+    "createdAt": "2024-02-23T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://python-framework-project.github.dev/",
+    "expirationHours": 132,
+    "prerequisites": [
+      "Advanced Python Programming (completed)",
+      "Software design patterns knowledge",
+      "Testing experience"
+    ],
+    "projectDeliverables": [
+      "Complete Python framework/library",
+      "Comprehensive documentation",
+      "Unit and integration tests",
+      "Example applications",
+      "PyPI package distribution",
+      "Performance benchmarks",
+      "Contribution guidelines"
+    ],
+    "estimatedEffort": "4-6 weeks"
+  },
+  {
+    "id": "46",
+    "title": "Microservices Architecture Implementation",
+    "description": "Build a complete microservices-based application with container orchestration",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "DevOps",
+    "level": "Intermediate",
+    "type": "project",
+    "duration": 320,
+    "instructions": "Design and implement a microservices architecture with multiple services, API gateway, service discovery, and container orchestration using Kubernetes.",
+    "resources": [
+      "Microservices patterns guide",
+      "Kubernetes deployment examples",
+      "Service mesh documentation",
+      "Monitoring and logging setup"
+    ],
+    "tags": [
+      "microservices",
+      "kubernetes",
+      "containers",
+      "architecture"
+    ],
+    "createdAt": "2024-02-24T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://microservices-project.github.dev/",
+    "expirationHours": 156,
+    "prerequisites": [
+      "Kubernetes Container Orchestration (completed)",
+      "Docker Containerization (completed)",
+      "API development experience"
+    ],
+    "projectDeliverables": [
+      "Multiple microservices",
+      "API gateway implementation",
+      "Service discovery setup",
+      "Container orchestration",
+      "Monitoring and logging",
+      "CI/CD pipeline for services",
+      "Load testing results",
+      "Architecture documentation"
+    ],
+    "estimatedEffort": "6-8 weeks"
+  },
+  {
+    "id": "47",
+    "title": "Enterprise Software Architecture",
+    "description": "Design and implement a large-scale enterprise software system with advanced patterns",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "Web Development",
+    "level": "Advanced",
+    "type": "project",
+    "duration": 400,
+    "instructions": "Create a comprehensive enterprise software system incorporating advanced architectural patterns, scalability considerations, security, and maintainability.",
+    "resources": [
+      "Enterprise architecture patterns",
+      "Scalability design principles",
+      "Security architecture guide",
+      "Performance optimization strategies"
+    ],
+    "tags": [
+      "enterprise",
+      "architecture",
+      "scalability",
+      "security"
+    ],
+    "createdAt": "2024-02-25T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://enterprise-architecture-project.github.dev/",
+    "expirationHours": 240,
+    "prerequisites": [
+      "Full-Stack Web Architecture (completed)",
+      "Microservices Architecture Implementation (completed)",
+      "System design experience",
+      "Team leadership experience"
+    ],
+    "projectDeliverables": [
+      "Complete enterprise application",
+      "Scalable architecture design",
+      "Security implementation",
+      "Performance optimization",
+      "Monitoring and alerting",
+      "Documentation and diagrams",
+      "Deployment automation",
+      "Disaster recovery plan",
+      "Team collaboration tools"
+    ],
+    "estimatedEffort": "10-12 weeks"
+  },
+  {
+    "id": "48",
+    "title": "AI Research Platform",
+    "description": "Develop a comprehensive platform for AI research with experiment tracking and model management",
+    "courseId": "1",
+    "creatorId": "2",
+    "category": "AI/ML",
+    "level": "Advanced",
+    "type": "project",
+    "duration": 360,
+    "instructions": "Build an advanced AI research platform that supports experiment tracking, model versioning, distributed training, and collaborative research workflows.",
+    "resources": [
+      "MLOps platform architecture",
+      "Experiment tracking systems",
+      "Distributed computing frameworks",
+      "Research collaboration tools"
+    ],
+    "tags": [
+      "ai-research",
+      "mlops",
+      "experiment-tracking",
+      "distributed-training"
+    ],
+    "createdAt": "2024-02-26T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://ai-research-platform.github.dev/",
+    "expirationHours": 216,
+    "prerequisites": [
+      "Advanced Machine Learning (completed)",
+      "Machine Learning Prediction Model (completed)",
+      "Distributed systems knowledge",
+      "Research experience"
+    ],
+    "projectDeliverables": [
+      "AI research platform",
+      "Experiment tracking system",
+      "Model versioning and registry",
+      "Distributed training setup",
+      "Collaborative research tools",
+      "Performance monitoring",
+      "Research publication tools",
+      "Data management system",
+      "User access control"
+    ],
+    "estimatedEffort": "8-12 weeks"
+  },
+  {
+    "id": "49",
+    "title": "Big Data Analytics Ecosystem",
+    "description": "Build a complete big data analytics ecosystem with data lakes, processing, and visualization",
+    "courseId": "2",
+    "creatorId": "2",
+    "category": "Data Science",
+    "level": "Advanced",
+    "type": "project",
+    "duration": 380,
+    "instructions": "Create a comprehensive big data analytics ecosystem including data ingestion, storage, processing, and visualization components for enterprise-scale data analytics.",
+    "resources": [
+      "Big data architecture patterns",
+      "Data lake design principles",
+      "Distributed processing frameworks",
+      "Enterprise analytics tools"
+    ],
+    "tags": [
+      "big-data",
+      "data-lake",
+      "analytics",
+      "distributed-processing"
+    ],
+    "createdAt": "2024-02-27T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://bigdata-ecosystem-project.github.dev/",
+    "expirationHours": 228,
+    "prerequisites": [
+      "Advanced Data Engineering (completed)",
+      "Real-time Analytics Platform (completed)",
+      "Distributed systems expertise",
+      "Enterprise architecture knowledge"
+    ],
+    "projectDeliverables": [
+      "Data lake architecture",
+      "Batch and stream processing",
+      "Data governance framework",
+      "Analytics and visualization",
+      "Data quality monitoring",
+      "Security and compliance",
+      "Performance optimization",
+      "Disaster recovery system",
+      "Cost optimization analysis"
+    ],
+    "estimatedEffort": "10-14 weeks"
+  },
+  {
+    "id": "50",
+    "title": "Open Source Python Ecosystem",
+    "description": "Create and maintain a comprehensive open source Python ecosystem with multiple interconnected packages",
+    "courseId": "3",
+    "creatorId": "2",
+    "category": "Python",
+    "level": "Advanced",
+    "type": "project",
+    "duration": 350,
+    "instructions": "Develop a complete open source Python ecosystem consisting of multiple packages, tools, and frameworks that work together to solve complex problems in a specific domain.",
+    "resources": [
+      "Open source project management",
+      "Python ecosystem design",
+      "Community building guide",
+      "Package maintenance strategies"
+    ],
+    "tags": [
+      "open-source",
+      "python-ecosystem",
+      "community",
+      "package-management"
+    ],
+    "createdAt": "2024-02-28T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://python-ecosystem-project.github.dev/",
+    "expirationHours": 210,
+    "prerequisites": [
+      "Python Mastery Expert Level (completed)",
+      "Advanced Python Framework (completed)",
+      "Open source contribution experience",
+      "Community leadership experience"
+    ],
+    "projectDeliverables": [
+      "Multiple Python packages",
+      "Comprehensive documentation",
+      "Testing and CI/CD setup",
+      "Community guidelines",
+      "Tutorial and examples",
+      "Performance benchmarks",
+      "Contribution workflows",
+      "Release management system",
+      "Community engagement metrics"
+    ],
+    "estimatedEffort": "8-12 weeks"
+  },
+  {
+    "id": "51",
+    "title": "Cloud-Native Platform Engineering",
+    "description": "Build a complete cloud-native platform with infrastructure as code, observability, and self-healing capabilities",
+    "courseId": "",
+    "creatorId": "2",
+    "category": "DevOps",
+    "level": "Advanced",
+    "type": "project",
+    "duration": 420,
+    "instructions": "Design and implement a comprehensive cloud-native platform that includes infrastructure automation, observability, security, and self-healing capabilities for enterprise applications.",
+    "resources": [
+      "Cloud-native architecture guide",
+      "Platform engineering best practices",
+      "Observability frameworks",
+      "Self-healing system design"
+    ],
+    "tags": [
+      "cloud-native",
+      "platform-engineering",
+      "infrastructure-as-code",
+      "observability"
+    ],
+    "createdAt": "2024-03-01T00:00:00Z",
+    "isActive": true,
+    "codespacesUrl": "https://cloud-platform-project.github.dev/",
+    "expirationHours": 252,
+    "prerequisites": [
+      "Cloud Infrastructure Mastery (completed)",
+      "Microservices Architecture Implementation (completed)",
+      "Enterprise cloud experience",
+      "Platform engineering knowledge"
+    ],
+    "projectDeliverables": [
+      "Complete cloud-native platform",
+      "Infrastructure as code",
+      "Observability and monitoring",
+      "Security and compliance",
+      "Self-healing mechanisms",
+      "Developer experience tools",
+      "Cost optimization system",
+      "Disaster recovery automation",
+      "Platform documentation",
+      "Training materials"
+    ],
+    "estimatedEffort": "12-16 weeks"
+  }
+]
